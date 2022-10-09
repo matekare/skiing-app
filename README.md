@@ -1,2 +1,2 @@
 # skiing-app
-oop project with my gay bestie 
+oop project with my alfa male bestie 
