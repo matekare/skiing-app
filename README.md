@@ -1,2 +1,2 @@
 # skiing-app
-oop project with my gay bestie 
+Aplikacja do zarządzania stokiem narciarskim - projekt na studia.Programowanie_Obiektowe
